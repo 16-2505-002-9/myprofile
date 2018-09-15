@@ -1,4 +1,5 @@
 theme: jekyll-theme-time-machine
 title: Ryoukei TV Every day!
 description: 自己紹介しちゃうよ～の巻
-github: is_project_page: false
+github:
+  is_project_page: false
